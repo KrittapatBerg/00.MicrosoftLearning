@@ -1,0 +1,42 @@
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.exe
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.deps.json
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.dll
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.pdb
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.dll
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+C:\Users\Krittapat\source\repos\Microsoft Learning\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.exe
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.deps.json
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.dll
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.pdb
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.dll
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+C:\Users\Krittapat\source\repos\MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.exe
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.deps.json
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.pdb
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll

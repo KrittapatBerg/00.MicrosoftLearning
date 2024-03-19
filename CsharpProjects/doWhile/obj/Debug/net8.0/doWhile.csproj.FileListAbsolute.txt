@@ -1,0 +1,14 @@
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\bin\Debug\net8.0\doWhile.exe
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\bin\Debug\net8.0\doWhile.deps.json
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\bin\Debug\net8.0\doWhile.runtimeconfig.json
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\bin\Debug\net8.0\doWhile.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\bin\Debug\net8.0\doWhile.pdb
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\obj\Debug\net8.0\doWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\obj\Debug\net8.0\doWhile.AssemblyInfoInputs.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\obj\Debug\net8.0\doWhile.AssemblyInfo.cs
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\obj\Debug\net8.0\doWhile.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\obj\Debug\net8.0\doWhile.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\obj\Debug\net8.0\refint\doWhile.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\obj\Debug\net8.0\doWhile.pdb
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\obj\Debug\net8.0\doWhile.genruntimeconfig.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhile\obj\Debug\net8.0\ref\doWhile.dll

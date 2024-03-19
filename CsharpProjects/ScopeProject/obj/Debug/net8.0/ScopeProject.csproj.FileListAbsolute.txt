@@ -1,0 +1,14 @@
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\bin\Debug\net8.0\ScopeProject.exe
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\bin\Debug\net8.0\ScopeProject.deps.json
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\bin\Debug\net8.0\ScopeProject.runtimeconfig.json
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\bin\Debug\net8.0\ScopeProject.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\bin\Debug\net8.0\ScopeProject.pdb
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\obj\Debug\net8.0\ScopeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\obj\Debug\net8.0\ScopeProject.AssemblyInfoInputs.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\obj\Debug\net8.0\ScopeProject.AssemblyInfo.cs
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\obj\Debug\net8.0\ScopeProject.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\obj\Debug\net8.0\ScopeProject.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\obj\Debug\net8.0\refint\ScopeProject.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\obj\Debug\net8.0\ScopeProject.pdb
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\obj\Debug\net8.0\ScopeProject.genruntimeconfig.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\scopeProject\obj\Debug\net8.0\ref\ScopeProject.dll
