@@ -1,0 +1,15 @@
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\bin\Debug\net8.0\dataType.exe
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\bin\Debug\net8.0\dataType.deps.json
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\bin\Debug\net8.0\dataType.runtimeconfig.json
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\bin\Debug\net8.0\dataType.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\bin\Debug\net8.0\dataType.pdb
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\obj\Debug\net8.0\dataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\obj\Debug\net8.0\dataType.AssemblyInfoInputs.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\obj\Debug\net8.0\dataType.AssemblyInfo.cs
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\obj\Debug\net8.0\dataType.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\obj\Debug\net8.0\dataType.sourcelink.json
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\obj\Debug\net8.0\dataType.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\obj\Debug\net8.0\refint\dataType.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\obj\Debug\net8.0\dataType.pdb
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\obj\Debug\net8.0\dataType.genruntimeconfig.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\dataType\obj\Debug\net8.0\ref\dataType.dll

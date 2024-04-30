@@ -1,0 +1,15 @@
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\bin\Debug\net8.0\doWhileCodeProject.exe
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\bin\Debug\net8.0\doWhileCodeProject.deps.json
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\bin\Debug\net8.0\doWhileCodeProject.runtimeconfig.json
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\bin\Debug\net8.0\doWhileCodeProject.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\bin\Debug\net8.0\doWhileCodeProject.pdb
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\obj\Debug\net8.0\doWhileCodeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\obj\Debug\net8.0\doWhileCodeProject.AssemblyInfoInputs.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\obj\Debug\net8.0\doWhileCodeProject.AssemblyInfo.cs
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\obj\Debug\net8.0\doWhileCodeProject.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\obj\Debug\net8.0\doWhileCodeProject.sourcelink.json
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\obj\Debug\net8.0\doWhileCodeProject.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\obj\Debug\net8.0\refint\doWhileCodeProject.dll
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\obj\Debug\net8.0\doWhileCodeProject.pdb
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\obj\Debug\net8.0\doWhileCodeProject.genruntimeconfig.cache
+C:\Users\Krittapat\source\repos\00.MicrosoftLearning\CsharpProjects\doWhileCodeProject\obj\Debug\net8.0\ref\doWhileCodeProject.dll
